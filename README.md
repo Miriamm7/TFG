@@ -1,5 +1,5 @@
 # Autoría
-Miriam Montero Mena
+Miriam
 # Área
 Trabajo Social orientado a menores
 # Tema
